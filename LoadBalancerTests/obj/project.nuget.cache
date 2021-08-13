@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtlHTvq7PgdbMd49j0Ngd+7QWIExPB/7eVyOXx76wttk7RhElOV3HCkvc5rbA4fJkcoEKZNf1kAgYtayCxbaOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djordje\\Desktop\\RESDJOLE\\RESProject\\LoadBalancerTests\\LoadBalancerTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadBalancer", "LoadBalancer\LoadBalancer.csproj", "{385C22C1-D3B2-4F0C-AE19-77826DC6F62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests2ElectricBoogaloo", "Tests2ElectricBoogaloo\Tests2ElectricBoogaloo.csproj", "{9661F21F-E685-4E30-91D9-85C21EFC8FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385C22C1-D3B2-4F0C-AE19-77826DC6F62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385C22C1-D3B2-4F0C-AE19-77826DC6F62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385C22C1-D3B2-4F0C-AE19-77826DC6F62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385C22C1-D3B2-4F0C-AE19-77826DC6F62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9661F21F-E685-4E30-91D9-85C21EFC8FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9661F21F-E685-4E30-91D9-85C21EFC8FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9661F21F-E685-4E30-91D9-85C21EFC8FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9661F21F-E685-4E30-91D9-85C21EFC8FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CA09BF-2736-4C33-A371-935D072501FA}
+	EndGlobalSection
+EndGlobal

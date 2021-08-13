@@ -1,0 +1,13 @@
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancerTests.deps.json
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancerTests.dll
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancerTests.pdb
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancer.exe
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancer.pdb
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\bin\Debug\netstandard2.0\LoadBalancer.exe.config
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.csprojAssemblyReference.cache
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.AssemblyInfoInputs.cache
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.AssemblyInfo.cs
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.csproj.CoreCompileInputs.cache
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.csproj.CopyComplete
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.dll
+C:\Users\Djordje\Desktop\RESDJOLE\RESProject\LoadBalancerTests\obj\Debug\netstandard2.0\LoadBalancerTests.pdb

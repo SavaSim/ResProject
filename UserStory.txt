@@ -1,0 +1,38 @@
+1. Kao korisnik, zelim funkcionalnost upisa vrednosti u bazu podataka da bi cuvao moje podatke.
+	- Baza podataka je tekstualni fajl.
+	- Vrednosti mogu biti razlicitih tipova(postoji tacna lista).
+	- Vrednosti imaju svoje DataSet parove.
+	
+2. Kao korisnik, zelim da se podaci salju na svake dve sekunde da bi olaksao rad na programu.
+	- Podaci se salju Load Balancer-u.
+
+3. Kao korisnik, zelim da prozor za unos podataka palim rucno jer mi je tako najlakse.
+	- Opcija mora biti jasno izrazena.
+
+4. Kao korisnik, zelim kontrolu upisanih vrednosti da ne bih unosio vise puta iste vrednosti ili pogresno.
+	- Parovi DataSet-a moraju biti popunjeni pre unosa u bazu podataka.
+	- Za upis u bazu podaci moraju proci kroz Deadband kriterijum odnosno nova vrednost se mora razlikovati vise od 2% od vec upisanih vrednosti.
+	- Jedini izuzetak od Deadband kriterijuma je kada je vrednost tipa CODE_DIGITAL, onda se uvek prosledjuje i upisuje u bazu podataka.
+
+5. Kao korisnik, zelim vremenski zapis upisa podataka da bi znao kada je koji podatak unesen.
+	- Vremenski format mora biti odgovarajuci.
+
+6. Kao korisnik, zelim mogucnost dobavljanja zadnjih unesenih podataka izabranog tipa da bi ubrzao rad sa podacima koji se koriste tokom rada.
+	- Vrednosti se iscitavaju po vremenskom intervalu.
+
+7. Kao korisnik, zelim funkcionalnost belezenja aktivnosti svih komponenata programa da bi lakse pratio njihov rad.
+
+8. Kao korisnik, zelim da imam mogucnost paljenja i gasenja Workera.
+	- Opcija mora biti jasno izrazena.
+
+9. Kao korisnik zelim nasumicnu dodelu posla Workerima.
+
+Lista tipova vrednosti:				DataSet parovi:					
+1.	CODE_ANALOG				• DataSet = 1 – CODE_ANALOG, CODE_DIGITAL
+2.	CODE_DIGITAL				• DataSet = 2 – CODE_CUSTOM, CODE_LIMITSET
+3.	CODE_CUSTOM				• DataSet = 3 – CODE_SINGLENODE, CODE_MULTIPLENODE
+4.	CODE_LIMITSET				• DataSet = 4 – CODE_CONSUMER, CODE_SOURCE
+5.	CODE_SINGLENOE
+6.	CODE_MULTIPLENODE
+7.	CODE_CONSUMER
+8.	CODE_SOURCE
